@@ -1,0 +1,1 @@
+mongodb+srv://admingataria:admingataria@cluster0.tqtetat.mongodb.net/
